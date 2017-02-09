@@ -6,3 +6,12 @@ h1{
     color: orchid;
     text-underline: white;
 }
+
+p{
+    color: fuchsia;
+}
+
+ul{
+    color: aliceblue;
+    font-style: italic;
+}
